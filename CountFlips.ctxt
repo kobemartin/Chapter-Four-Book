@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CountFlips
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ flips\ a\ coin\ multiple\ times\ and\ counts\ the\ number\ of\ heads\ and\ tails\ that\ results\r\n
+numComments=2

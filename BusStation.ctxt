@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BusStation
+comment1.params=
+comment1.target=BusStation()
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+comment3.params=string
+comment3.target=void\ setAddress(java.lang.String)
+comment4.params=busNumber\ busRouteNumber\ busDestination\ busDepartureTime\ busArrivalTime
+comment4.target=void\ setBus(int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=int\ delay()
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FlipRace
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Flips\ two\ coin\ until\ heads\ comes\ up\ 50\ times\ in\ a\ row.\r\n
+numComments=2
